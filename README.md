@@ -51,7 +51,7 @@ The dashboard is protected to prevent accidental changes:
 
 ## 🖼️ Preview
 
-![Dashboard Overview](images/dashboard.png)
+![Dashboard Overview](dashboard.png)
 
 ---
 
